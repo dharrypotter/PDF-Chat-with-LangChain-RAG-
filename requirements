@@ -1,0 +1,16 @@
+## Requirements
+
+To run the project, you need the following dependencies:
+
+- Python 3.7+
+- LangChain
+- OpenAI API key (for GPT models)
+- FAISS
+- PyPDF2
+- Streamlit (optional for web interface)
+- **Additional Libraries** (see `requirements.txt`)
+
+### Install dependencies:
+
+```bash
+pip install -r requirements.txt
